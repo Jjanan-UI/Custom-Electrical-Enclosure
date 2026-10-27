@@ -31,3 +31,8 @@ This repository contains the complete design, engineering drawings, and manufact
 *   `/cad` - Solidworks.
 *   `/drawings` - 2D flat patterns, DXF files for laser cutting, and the full PDF engineering drawing (including Detail Views A & B).
 *   `/images` - Renders, flat pattern references, and reference photos.
+
+
+## 🚀 Getting Started
+1. Review the `drawings/flat_pattern.dxf` file for laser cutting and CNC punching profiles.
+2. Refer to the `Electrical_Enclosure_Specification.pdf` for the formal bend table (Tags A-H), exact tolerancing, and hole arrays.
