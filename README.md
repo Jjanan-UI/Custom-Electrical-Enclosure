@@ -29,7 +29,7 @@ This repository contains the complete design, engineering drawings, and manufact
 
 ## 📂 Repository Structure
 *   `/cad` - Solidworks.
-*   `/drawings` - 2D flat patterns, DXF files for laser cutting, and the full PDF engineering drawing (including Detail Views A & B).
+*   `/drawings` - Specification, flat_pattern.DXF files for laser cutting, and Bill of Materials(BOM).
 *   `/images` - Renders, flat pattern references, and reference photos.
 
 
